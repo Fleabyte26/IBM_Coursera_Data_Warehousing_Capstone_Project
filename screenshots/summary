@@ -1,0 +1,19 @@
+screenshots/
+│   ├── importdata.jpg
+│   ├── softcartDimDate.jpg
+│   ├── dimtables.jpg
+│   ├── softcartFactSales.jpg
+│   ├── softcartRelationships.jpg
+│   ├── groupingsets.png
+│   ├── cube.png
+│   ├── total_sales_per_country.png
+│   ├── dataimport.jpg
+│   ├── first10rows.jpg
+│   ├── datasource.jpg
+│   ├── linechart.jpg
+│   ├── piechart.jpg
+│   ├── barchart.jpg
+│   ├── extract_load_data.png
+│   ├── DimDate.png
+│   ├── FactSales.png
+│   └── schedule_job.png
